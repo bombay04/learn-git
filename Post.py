@@ -6,7 +6,7 @@ url = "https://reqres.in/api/collections/products/records?project_id=17402"
 payload = json.dumps({
   "data": {
     "name": "kaijeaw",
-    "price": 140,
+    "price": 150,
     "category": "Food",
     "in_stock": True
   }
